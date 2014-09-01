@@ -1,0 +1,11 @@
+*.*
+*~
+!LICENSE
+!.gitignore
+!assets/**/*.*
+!readme.md
+!LibLicense/**/*.*
+!cofh
+!ic2
+!buildcraft
+!readme_for_user.txt
